@@ -1,0 +1,25 @@
+{
+  "name": "Survivor 50 Fantasy League",
+  "short_name": "Survivor 50",
+  "description": "Fantasy league tracker for Survivor Season 50",
+  "start_url": "/survivor-50/",
+  "scope": "/survivor-50/",
+  "display": "standalone",
+  "background_color": "#141E14",
+  "theme_color": "#E8572A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
